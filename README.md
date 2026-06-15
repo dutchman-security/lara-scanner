@@ -1,9 +1,9 @@
 <div align="center">
 
-# ╔═══════════════════════════════════════╗
-# ║     LARAVEL LOGS EXPOSER             ║
-# ║     Red Team Edition                 ║
-# ╚═══════════════════════════════════════╝
+# ╔═══════════════════════════════════╗
+# ║     LARAVEL LOGS EXPOSER          ║
+# ║     Red Team Edition              ║
+# ╚═══════════════════════════════════╝
 
 **Fingerprint · Locate · Exfiltrate exposed Laravel artifacts.**
 
