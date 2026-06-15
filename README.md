@@ -9,8 +9,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-Authorized%20Testing%20Only-red)](LICENSE)
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/dutchman-security/lara-scanner)
-
 **Developed by [Dutchman Security](https://github.com/dutchman-security)**  
 *Idea by overthrash1337*
 
